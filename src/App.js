@@ -1,10 +1,10 @@
 function App() {
   return (
-    <div className="App">
+    <h1 className="App">
       <a>
         hello world
       </a>
-    </div>
+    </h1>
   );
 }
 
